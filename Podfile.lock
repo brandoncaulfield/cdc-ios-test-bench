@@ -1,0 +1,16 @@
+PODS:
+  - Gigya (1.1.8)
+
+DEPENDENCIES:
+  - Gigya
+
+SPEC REPOS:
+  trunk:
+    - Gigya
+
+SPEC CHECKSUMS:
+  Gigya: a9dec5636f317ffd005695eee484943fc3fdbf82
+
+PODFILE CHECKSUM: 9a421723922a4e90f9718dbabdbfbe5423bb38b7
+
+COCOAPODS: 1.10.1
